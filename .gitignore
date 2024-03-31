@@ -1,5 +1,8 @@
 # Author custom entries
 
+#package-lock
+package-lock.json
+
 # temp
 tmp
 temp
